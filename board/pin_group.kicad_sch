@@ -3201,6 +3201,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C7932"
+			(at 144.145 126.365 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "9f114e04-6af5-4159-a3e1-aa1820fe0021")
 		)
@@ -3555,6 +3564,15 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, DIP-14/SOIC-14/TSSOP-14"
+			(at 103.505 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7932"
 			(at 103.505 104.775 0)
 			(effects
 				(font
@@ -3930,6 +3948,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C11702"
+			(at 160.655 99.695 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbf79c9d-7707-4690-b46c-48410c0ef626")
 		)
@@ -4017,6 +4044,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 160.655 126.365 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C11702"
 			(at 160.655 126.365 0)
 			(effects
 				(font
@@ -4113,6 +4149,15 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, DIP-14/SOIC-14/TSSOP-14"
+			(at 144.145 112.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7932"
 			(at 144.145 112.395 0)
 			(effects
 				(font
@@ -4538,6 +4583,15 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, DIP-14/SOIC-14/TSSOP-14"
+			(at 144.145 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7932"
 			(at 144.145 85.725 0)
 			(effects
 				(font
@@ -5149,6 +5203,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C7932"
+			(at 144.145 99.695 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "117e17b6-8612-4208-92f9-636ab1ff6ddf")
 		)
@@ -5275,6 +5338,15 @@
 			)
 		)
 		(property "Description" "8-bit serial in/out Shift Register 3-State Outputs"
+			(at 54.61 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C431479"
 			(at 54.61 102.87 0)
 			(effects
 				(font
@@ -5530,6 +5602,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 160.655 112.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C11702"
 			(at 160.655 112.395 0)
 			(effects
 				(font
@@ -6055,6 +6136,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 160.655 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C11702"
 			(at 160.655 85.725 0)
 			(effects
 				(font
